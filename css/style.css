@@ -7,3 +7,8 @@
 body {
     padding: 10px;
 }
+
+
+.ts-d-hidden{
+    display: none;
+}
